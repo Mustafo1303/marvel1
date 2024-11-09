@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+}
+h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.box p{
+    font-size: 55px;
+    font-weight: bolder;
+
+}
+.box span{
+    font-size: 30px;
+    font-weight: 900;
+    color: rgb(48, 18, 18);
+}
+.img1{
+    margin-left: 290px;
+}
